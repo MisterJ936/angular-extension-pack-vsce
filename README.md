@@ -1,5 +1,7 @@
 # VS Code Angular Extension Pack
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/loiane/angular-extension-pack-vsce.svg)](https://greenkeeper.io/)
+
 [![Version](http://vsmarketplacebadge.apphb.com/version/loiane.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
 [![Installs](http://vsmarketplacebadge.apphb.com/installs/loiane.angular-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
 
